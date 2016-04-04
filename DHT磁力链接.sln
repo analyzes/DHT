@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTModels", "DHTModels\DHTM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTWeb", "DHTWeb\DHTWeb.csproj", "{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTTool", "DHTTool\DHTTool.csproj", "{617B7D66-2157-4041-BB1D-DDC16E96D3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617B7D66-2157-4041-BB1D-DDC16E96D3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617B7D66-2157-4041-BB1D-DDC16E96D3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617B7D66-2157-4041-BB1D-DDC16E96D3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617B7D66-2157-4041-BB1D-DDC16E96D3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
