@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTServer", "DHTServer\DHTServer.csproj", "{395B2405-5D5B-4C4C-8041-FD7087799CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTClient", "DHTClient\DHTClient.csproj", "{26134FA9-E60E-470D-88F9-1BB69E853019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTCore", "DHTCore\DHTCore.csproj", "{7C271942-7F1A-455E-97EF-805F5E917349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTSQLHelper", "DHTSQLHelper\DHTSQLHelper.csproj", "{2B6CC9F3-4D9D-4CB3-BAA3-1690CFA93E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTSQLCore", "DHTSQLCore\DHTSQLCore.csproj", "{97B84746-20FC-4443-BC63-EF46AF0C74D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTModels", "DHTModels\DHTModels.csproj", "{64A5E004-DE70-4C42-A93E-5FA1703F238B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHTWeb", "DHTWeb\DHTWeb.csproj", "{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395B2405-5D5B-4C4C-8041-FD7087799CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395B2405-5D5B-4C4C-8041-FD7087799CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395B2405-5D5B-4C4C-8041-FD7087799CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395B2405-5D5B-4C4C-8041-FD7087799CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26134FA9-E60E-470D-88F9-1BB69E853019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26134FA9-E60E-470D-88F9-1BB69E853019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26134FA9-E60E-470D-88F9-1BB69E853019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26134FA9-E60E-470D-88F9-1BB69E853019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C271942-7F1A-455E-97EF-805F5E917349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C271942-7F1A-455E-97EF-805F5E917349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C271942-7F1A-455E-97EF-805F5E917349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C271942-7F1A-455E-97EF-805F5E917349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6CC9F3-4D9D-4CB3-BAA3-1690CFA93E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6CC9F3-4D9D-4CB3-BAA3-1690CFA93E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6CC9F3-4D9D-4CB3-BAA3-1690CFA93E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6CC9F3-4D9D-4CB3-BAA3-1690CFA93E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B84746-20FC-4443-BC63-EF46AF0C74D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B84746-20FC-4443-BC63-EF46AF0C74D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B84746-20FC-4443-BC63-EF46AF0C74D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B84746-20FC-4443-BC63-EF46AF0C74D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A5E004-DE70-4C42-A93E-5FA1703F238B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A5E004-DE70-4C42-A93E-5FA1703F238B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A5E004-DE70-4C42-A93E-5FA1703F238B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A5E004-DE70-4C42-A93E-5FA1703F238B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1966A5B4-E0C6-4AE1-B29F-4D0EE8F6E969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
